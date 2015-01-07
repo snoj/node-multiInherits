@@ -1,0 +1,28 @@
+{
+  "name": "multiInherits",
+  "version": "0.1.0",
+  "description": "Combine multiple object prototypes into one and doesn't remove existing properties.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node .\\test\\test-multiInherits.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snoj/node-multiInherits"
+  },
+  "keywords": [
+    "inherits",
+    "inherit",
+    "inheritance",
+    "multi-inheritance"
+  ],
+  "author": "Josh Erickson <josh@snoj.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snoj/node-multiInherits/issues"
+  },
+  "homepage": "https://github.com/snoj/node-multiInherits"
+}
