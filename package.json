@@ -1,5 +1,5 @@
 {
-  "name": "multiInherits",
+  "name": "multiinherits",
   "version": "0.1.0",
   "description": "Combine multiple object prototypes into one and doesn't remove existing properties.",
   "main": "index.js",
